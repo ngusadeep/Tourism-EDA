@@ -1,24 +1,4 @@
-Here’s a **refined Problem Statement** followed by a well-structured **README file** for your tourism EDA and prediction project:
-
----
-
-### **Problem Statement**
-
-Tourism is a vital pillar of Tanzania’s economy, contributing significantly to foreign exchange earnings, employment, and community development. Renowned globally for attractions such as **Serengeti National Park**, **Mount Kilimanjaro**, and **Zanzibar beaches**, the country draws millions of visitors annually.
-
-However, there is **limited data-driven understanding of visitor demographics, seasonal patterns, and revenue drivers**. This lack of insight hinders informed decision-making for policymakers, tourism boards, and stakeholders, resulting in inefficiencies in marketing strategies, resource allocation, and sustainable sector planning.
-
-To address this, there is a need to **analyze historical tourism data** to uncover patterns in tourist arrivals, spending, preferences, and peak seasons. Furthermore, a **predictive model** can be developed to classify and forecast tourist flow levels (e.g., **"High"**, **"Medium"**, or **"Low"**) and segment visitors based on key attributes like **source market** or **package preferences**.
-
-By combining **Exploratory Data Analysis (EDA)** with **predictive modeling**, this project aims to provide actionable insights and build a foundation for data-driven decision-making in Tanzania’s tourism sector.
-
----
-
-## 📘 **README File**
-
 ### **📊 Exploratory Data Analysis and Prediction: Tourism Sector in Tanzania**
-
----
 
 ## 📌 Project Overview
 
